@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Accounts from './accounts';
-import { Bins } from '../../imports/collections/bins';
 
 class Header extends Component {
 
@@ -13,7 +12,7 @@ class Header extends Component {
         return (
             <nav className="nav navbar-default">
                 <div className="navbar-header">
-                    <a className="navbar-brand">Markbin</a>
+                    <a href="/" className="navbar-brand">Markbin</a>
                 </div>
                 <ul className="nav navbar-nav">
                     <li>
