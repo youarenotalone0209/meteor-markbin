@@ -24,6 +24,3 @@ Meteor.startup(() => {
     ReactDOM.render(routes, document.querySelector('.render-target'));
 });
 
-//meteor add accounts-ui accounts-password
-//meteor remove insecure
-//meteor remove autopublish
