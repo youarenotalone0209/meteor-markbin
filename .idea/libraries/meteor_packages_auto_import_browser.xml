@@ -175,6 +175,9 @@
         <item url="file://$USER_HOME$/.meteor/packages/server-render/0.3.0/web.browser/server.js" />
         <item url="file://$USER_HOME$/.meteor/packages/service-configuration/1.0.11/web.browser/service_configuration_common.js" />
         <item url="file://$USER_HOME$/.meteor/packages/session/1.1.7/web.browser/session.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/cmstyle-tests.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/cmstyle.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/style.css" />
         <item url="file://$USER_HOME$/.meteor/packages/sha/1.0.9/web.browser/sha256.js" />
         <item url="file://$USER_HOME$/.meteor/packages/shim-common/0.1.0/web.browser/server.js" />
         <item url="file://$USER_HOME$/.meteor/packages/socket-stream-client/0.1.0/web.browser/browser.js" />
@@ -397,6 +400,9 @@
       <root url="file://$USER_HOME$/.meteor/packages/server-render/0.3.0/web.browser/server.js" />
       <root url="file://$USER_HOME$/.meteor/packages/service-configuration/1.0.11/web.browser/service_configuration_common.js" />
       <root url="file://$USER_HOME$/.meteor/packages/session/1.1.7/web.browser/session.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/cmstyle-tests.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/cmstyle.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/sgslo_cmstyle/0.0.1/web.browser/style.css" />
       <root url="file://$USER_HOME$/.meteor/packages/sha/1.0.9/web.browser/sha256.js" />
       <root url="file://$USER_HOME$/.meteor/packages/shim-common/0.1.0/web.browser/server.js" />
       <root url="file://$USER_HOME$/.meteor/packages/socket-stream-client/0.1.0/web.browser/browser.js" />

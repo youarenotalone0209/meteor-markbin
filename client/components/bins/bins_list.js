@@ -41,6 +41,7 @@ class BinsList extends Component {
 
 export default withTracker(() => {
     Meteor.subscribe('bins');
+    Meteor.subscribe('sharedBins');
     // this bins will be provided as a prop to our react component
     // Bin.find() here doesn't return us all data, but only the data that Meteor
     // provides us from the subscription
